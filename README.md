@@ -15,6 +15,7 @@
   <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-F16061?style=flat-square&logo=argo&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Bitbucket Pipeline" src="https://img.shields.io/badge/Bitbucket-Pipelines-0052CC?logo=bitbucket&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-Kafka-%23151714?logo=apachekafka&logoColor=white" />
 </p>
